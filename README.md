@@ -1,3 +1,2 @@
-# Hotel-Managment-System
-## Project based on JAVA and MySQL
+# Hotel-Managment-System Using JAVA and MySQL.
 ### Technical Coding Research(TCR) Innovation
